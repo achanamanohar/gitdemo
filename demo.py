@@ -1,2 +1,2 @@
 print('hello world')
-printf('pull')
+printf('pull i')
